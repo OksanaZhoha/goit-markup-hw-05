@@ -662,14 +662,13 @@ border-color: #4D5AE5;
 outline-color: transparent;
 outline-offset: 3px;
 }
-
-.review-form-field-wrapper {
-  margin-bottom: 8px;
-}
-
 .review-form-input-wrapper {
   position: relative;
   margin-bottom: 16px;
+}
+
+.review-form-field-wrapper {
+  margin-bottom: 24px;
 }
 
 .review-form-field-icon {
