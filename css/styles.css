@@ -491,7 +491,7 @@ ol {
 
 .subscribe-form {
   display: flex;
-  gap 24px;
+  gap: 24px;
 }
 
 .subscribe-form-field{
@@ -668,7 +668,11 @@ outline-offset: 3px;
 }
 
 .review-form-field-wrapper {
-  margin-bottom: 24px;
+  margin-bottom: 8px;
+}
+
+.review-form-field-wrapper-comment{
+  margin-bottom: 16px;
 }
 
 .review-form-field-icon {
